@@ -1,0 +1,12 @@
+#test2, #test1{
+    color: red;
+    scroll-behavior: smooth;
+    height: 100px;
+}
+#test2{
+    color: blue;
+}
+.letter{
+    width: 100px;
+    height: 100px;
+}
